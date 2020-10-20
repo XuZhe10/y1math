@@ -16,5 +16,4 @@
 # 3800, 25000, 103000
 #
 # Extension: Write Python code that generate questions,
-# i.e. numbers and query students about the number of signficant
-# figures of the given number, and give feedback to student's answer.
+# i.e. numbers and query students about the number of sign.
